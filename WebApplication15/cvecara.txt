@@ -1,0 +1,6 @@
+﻿Cvet1|Vrsta cveta1|Dobavljac1|/Images/slika1.jpg
+Cvet2|Vrsta cveta2|Dobavljac2|/Images/slika2.jpg
+Cvet3|Vrsta cveta3|Dobavljac3|/Images/slika3.jpg
+Cvet4|Vrsta cveta4|Dobavljac4|/Images/slika4.jpg
+Naziv cveta : |Vrsta cveta :|Dobavljac :|/Images/slika1.jpg
+Naziv cveta : |Vrsta cveta :|Dobavljac :|/Images/roses.jpg
